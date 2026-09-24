@@ -17,7 +17,7 @@ Focus areas include:
 
 ## Documents
 
-Technical notes and experiment summaries will be added here as the project develops.
+- [Research Note](SVBT_Research_Note.pdf)
 
 ## Status
 
