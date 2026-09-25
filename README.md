@@ -5,7 +5,7 @@ checking irreversibility, and preserving future options before committing to act
 
 SVBT studies when an AI should delay irreversible commitment and reason further.
 
-Research Note
+[Research Note](SVBT_Research_Note.pdf)
 
 Current experiments
 
